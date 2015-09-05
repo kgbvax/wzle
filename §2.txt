@@ -1,16 +1,70 @@
+Deltas und Erörterung:
+    *  Zwecke erweitert um Bürgerschatlichem Engagement und Völkerverständigung. Bürgerschaftliches Engagement = konkret Freifunk. Völkerverständigung = Carte Blanche im Kontext Flüchtlinge (ohne da konkret zu werden)
+    Zwecke Wissenschaft und Forschung, Kunst und Kultur, Erziehung und Bildung waren vorher schon drin.
+    * Mittel erweiterte um Schaffung von Bürgernetzen (konkrete Nennung um hier "sicher" im  Vereinszweck zu liegen)
+    * Austausch erweitert um International (um die Völkerverständigung erstmal zu plausibilisieren) Im Tötigkeitsbericht würde da wohl einfech die Nennung von Internationalen Gruppen reichen, die man beim Congress u.ä. getroffen hat?)
+    *  b) auf "Hackerspace" angepasst: Einschränkung "wissenschaftlich" gestrichen, gesellschaftliche Auswirkungen ergänzt. Dies soll ermöglichen sich nicht ausschliesslich technisch mit den Dingen auseinanderzusetzen. 
+    * a) Umformuliert um Maker & Hacker besser abzubilden (ein Versuch)
+ 
+ Änderungen an a&b sind keine "Freifunk Änderungen"
+ 
+ ------ 
 § 2 – Zweck und Gemeinnützigkeit 
  
-(1)  Der Verein fördert und unterstützt Vorhaben der Forschung, Wissenschaft, Bildung, Erziehung, Kunst und Kultur oder führt diese durch. Der Vereinszweck soll unter anderem durch folgende Mittel erreicht werden: 
- 
-Veranstaltung von Konferenzen und Bildung von Arbeitsgruppen zum Austausch von Wissen in den Bereichen: Informations- und Kommunikationstechnik in Soft- und Hardware. 
- 
-Organisation von Vorträgen und Diskussionen wissenschaftlicher Art im Bereich Datenschutz, Kommunikation und aktueller Probleme der Informatik. 
- 
-Veranstaltung mehrtägiger Workshops zur Bearbeitung vorgegebener Aufgabenstellungen speziell auch für Jugendliche. 
- 
-Kunst und Kultur durch Erschaffen von computergesteuerten Licht-, Medien- und Kunstinstallation. 
- 
-Austausch und Kontakt mit Gruppen und Vereinen ähnlicher Zielsetzung. 
- 
+(1)  Zweck des Vereins ist die Förderung von Wissenschaft und Forschung, Kunst und Kultur,  Erziehung und Volksbildung sowie Bürgerschatlichem Engangement und Völkerverständigung.  Der Vereinszweck soll unter anderem durch folgende Mittel erreicht werden: 
+
+a) Veranstaltung von Konferenzen und Bildung von Arbeitsgruppen zum Austausch von Wissen in den Bereichen: Computer Software, Computer Hardware, Netzwerk und Funktechnik, Elektrotechnik, Robotik sowie zugehöriger Fertigungs- und Entwicklungsmethoden.
+
+b) Organisation von Vorträgen und Diskussionen  in den  Bereichen Datenschutz, Kommunikation und aktueller Probleme der Informatik und ihre gesellschaftlichen Auswirkungen
+
+c) Veranstaltung mehrtägiger Workshops zur Bearbeitung vorgegebener Aufgabenstellungen speziell auch für Jugendliche. 
+
+d) Kunst und Kultur durch Erschaffen von computergesteuerten Licht-, Medien- und Kunstinstallation. 
+
+e) Austausch und Kontakt mit Gruppen und Vereinen ähnlicher Zielsetzung auf regionaler, nationaler und internationaler Ebene.
+
+f) Bürgerschaftliches Engagement durch Schaffung von Bürgernetzen, Erforschung und Weiterentwicklung derselben sowohl auf technischer als auch gesellschaftlicher Ebene sowie Wissensvermittlung an interessierte Bürgern und Organsiationen. 
+
+
+
 (2)  Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung. Er darf keine Gewinne erzielen; er ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Die Mittel des Vereins werden ausschließlich und unmittelbar zu den satzungsgemäßen Zwecken verwendet. Die Mitglieder erhalten keine Zuwendung aus den Mitteln des Vereins. Die Zahlung pauschaler Aufwandsentschädigungen an Mitglieder des Vorstandes oder anderweitig für den Verein tätige Mitglieder in angemessener Höhe ist zulässig. Niemand darf durch Ausgaben, die dem Zwecke des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden. 
- 
+
+---
+Denkbare Zwecke entsprechend http://www.gesetze-im-internet.de/ao_1977/__52.html
+X- die Förderung von Wissenschaft und Forschung;
+X die Förderung internationaler Gesinnung, der Toleranz auf allen Gebieten der Kultur und des Völkerverständigungsgedankens;
+X die Förderung des bürgerschaftlichen Engagements zugunsten gemeinnütziger, mildtätiger und kirchlicher Zwecke.
+X- die Förderung von Kunst und Kultur
+X-die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe;
+
+
+Geht offenbar mehreres, siehe http://hackerspace-bielefeld.de/wp-content/uploads/2012/10/bescheinigung-gemeinnuetzigkeit.pdf
+
+
+QUELLEN
+Satzung FFRL: https://freifunk-rheinland.net/wp-content/uploads/2012/08/Satzung_20110527_0.pdf
+1. Zweck des Vereins ist die Erforschung, Anwendung und Verbreitung freier Netzwerktechnologien sowie die Verbreitung und Vermittlung von Wissen über Funk &Netzwerktechnologien.
+2. Weiterhin fördert der Verein ideell, materiell und/oder finanziell:
+    • den Zugang zur Informationstechnologie für sozial benachteiligte Personen
+    • die Schaffung experimenteller Kommunikations- und Infrastrukturen sowieBürgerdatennetzen.
+    • Kulturelle, technologische und soziale Bildungs- und Forschungsobjekte
+    • die Veranstaltung regionaler, nationaler und internationaler Kongresse, Treffen und Konferenzen, sowie die Teilnahme der Mitglieder. 
+
+Sehr spezifisch, Freifunk Chemnitz: http://www.chemnitz.freifunk.net/wp-content/uploads/2013/08/Freifunk-Satzung.pdf
+
+C3PB https://www.c3pb.de/uber-uns/satzung-und-beitragsordnung.html
+
+Freifunk Potsdam http://wiki.freifunk-potsdam.de/Satzung
+§2 Vereinszweck
+Zweck des Vereins ist die Erforschung, Verbreitung und Anwendung freier Netzwerktechnologien sowie die Verbreitung, Anwendung und Vermittlung von Wissen über Netzwerke sowie kultureller Inhalte mittels elektronischer Medien.
+Weiterhin fördert der Verein ideell, materiell und/oder finanziell:
+den Zugang der Informationstechnologie für sozial benachteiligte Personen
+die Schaffung experimenteller Kommunikations- und Infrastrukturen unabhängiger Netzwerke
+kulturelle, technologische und soziale Bildungs- und Forschungsprojekte
+Datenkommunikation, kulturelles Leben sowie fachbezogene Wissensvermittlung
+die Veranstaltung regionaler, nationaler und internationaler Kongresse, Treffen, Konferenzen und Seminare, sowie die Teilnahme der Mitglieder.
+
+Schema für Satzungen:
+    https://www.justiz.nrw.de/Gerichte_Behoerden/ordentliche_gerichte/FGG/Einzelverfahren/Registersachen/Vereinssatzung/index.php
+    http://www.buergergesellschaft.de/?id=106942
+    http://www.vereinsbesteuerung.info/satzung.htm
