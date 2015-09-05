@@ -1,10 +1,10 @@
 Deltas und Erörterung:
-    *  Zwecke erweitert um Bürgerschatlichem Engagement und Völkerverständigung. Bürgerschaftliches Engagement = konkret Freifunk. Völkerverständigung = Carte Blanche im Kontext Flüchtlinge (ohne da konkret zu werden)
+    *  Zwecke erweitert um Bürgerschatlichem Engagement und Völkerverständigung. Bürgerschaftliches Engagement = konkret Freifunk. Völkerverständigung = Carte Blanche im Kontext Flüchtlinge (ohne da konkret zu werden). Funktioniert aber bestimmt auch für andere Dinge :-)
     Zwecke Wissenschaft und Forschung, Kunst und Kultur, Erziehung und Bildung waren vorher schon drin.
     * Mittel erweiterte um Schaffung von Bürgernetzen (konkrete Nennung um hier "sicher" im  Vereinszweck zu liegen)
     * Austausch erweitert um International (um die Völkerverständigung erstmal zu plausibilisieren) Im Tötigkeitsbericht würde da wohl einfech die Nennung von Internationalen Gruppen reichen, die man beim Congress u.ä. getroffen hat?)
     *  b) auf "Hackerspace" angepasst: Einschränkung "wissenschaftlich" gestrichen, gesellschaftliche Auswirkungen ergänzt. Dies soll ermöglichen sich nicht ausschliesslich technisch mit den Dingen auseinanderzusetzen. 
-    * a) Umformuliert um Maker & Hacker besser abzubilden (ein Versuch)
+    * a) Umformuliert um Maker & Hacker besser abzubilden (ein Versuch damit für alle was dabei ist und wir auch in Zukunft flexibel werden)
  
  Änderungen an a&b sind keine "Freifunk Änderungen"
  
@@ -23,7 +23,7 @@ d) Kunst und Kultur durch Erschaffen von computergesteuerten Licht-, Medien- und
 
 e) Austausch und Kontakt mit Gruppen und Vereinen ähnlicher Zielsetzung auf regionaler, nationaler und internationaler Ebene.
 
-f) Bürgerschaftliches Engagement durch Schaffung von Bürgernetzen, Erforschung und Weiterentwicklung derselben sowohl auf technischer als auch gesellschaftlicher Ebene sowie Wissensvermittlung an interessierte Bürgern und Organsiationen. 
+f) Bürgerschaftliches Engagement durch Schaffung von Bürgernetzen, Erforschung und Weiterentwicklung derselben sowohl auf technischer als auch gesellschaftlicher Ebene sowie Wissensvermittlung und Beratung von interessierte Bürgern und Organsiationen. 
 
 
 
