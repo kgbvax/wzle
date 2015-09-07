@@ -10,3 +10,5 @@ Satzung.diff.aux
 Satzung.diff.dvi
 
 *.log
+
+*.aux
