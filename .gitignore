@@ -12,3 +12,7 @@ Satzung.diff.dvi
 *.log
 
 *.aux
+
+*.dvi
+
+Beitragsordnung.diff.tex
